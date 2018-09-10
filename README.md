@@ -1,7 +1,7 @@
 # code_session
 
 
-## windows
+## * windows 
 
 ### https://www.anaconda.com/download/#windows
 ### install anaconda3 for python 3.6 64 bit
@@ -18,7 +18,7 @@
 ### go to the directory where you downloaded the lecture files and open it
 
 
-## ubuntu
+## * ubuntu
 
 ### https://www.anaconda.com/download/#linux
 ### install anaconda3 for python 3.6 64 bit
